@@ -1,0 +1,16 @@
+{
+  "name": "ddmaps",
+  "version": "0.1.0",
+  "description": "D&D Map creator / viewer prototype in electron",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^3.0.9"
+  },
+  "devDependencies": {
+    "electron-builder": "^20.34.0"
+  }
+}
